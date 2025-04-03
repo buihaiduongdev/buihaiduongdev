@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @buihaiduongdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Hải Dương 👋
 
-<!---
-buihaiduongdev/buihaiduongdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me
+- 💻 Full-stack Developer with a passion for creating innovative solutions.
+- 🌱 Currently learning advanced web technologies and cloud computing.
+- 🚀 Driven to contribute to open-source projects and collaborate with the developer community.
+
+## 🛠️ Skills
+- **Languages**: JavaScript, Python, C++, Java
+- **Frameworks**: React.js, Node.js, Angular, Django
+- **Tools & Platforms**: Git, Docker, Kubernetes, AWS
+
+## 🌐 Connect With Me
+- 🌟 GitHub: [buihaiduongdev](https://github.com/buihaiduongdev)
+- 🌐 Website: [Your Personal Website](#) *(Nếu có)*
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💬 LinkedIn: [Your LinkedIn Profile](#)
+
+## 🎯 Goals for 2025
+- Master cloud-native architecture 🌩️
+- Contribute to meaningful open-source projects 🌍
+- Mentor aspiring developers 🙌
+
+---
+
+*"Keep coding, stay curious, and let's make amazing things together!"*
