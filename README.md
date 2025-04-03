@@ -10,12 +10,6 @@
 - **Frameworks**: React.js, Node.js, Angular, Django
 - **Tools & Platforms**: Git, Docker, Kubernetes, AWS
 
-## 🌐 Connect With Me
-- 🌟 GitHub: [buihaiduongdev](https://github.com/buihaiduongdev)
-- 🌐 Website: [Your Personal Website](#) *(Nếu có)*
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💬 LinkedIn: [Your LinkedIn Profile](#)
-
 ## 🎯 Goals for 2025
 - Master cloud-native architecture 🌩️
 - Contribute to meaningful open-source projects 🌍
